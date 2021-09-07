@@ -10,6 +10,7 @@ public class SnakeAndLadder {
         int IS_SNAKE = 1;
         int WINNING_POSITION = 100;
         int diceCount = 0;
+
         System.out.println("Welcome to Snake and Ladder Game");
 
         while (position < WINNING_POSITION) {
